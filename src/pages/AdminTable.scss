@@ -1,0 +1,11 @@
+.pagination-button {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background-color: blue;
+  border: 2px solid black;
+}
+.pagination-button:active {
+  background-color: white;
+  border: 2px solid black;
+}
